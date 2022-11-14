@@ -34,5 +34,6 @@ int main()
 	cout<<"add is "<<obj.mul(4,6)<<endl;
 	cout<<"add is "<<obj.div(4,6)<<endl;
 	cout<<"sailu "<<endl;
+	cout<<"pavani is good girl"<<endl;
 	return 0;
 }
