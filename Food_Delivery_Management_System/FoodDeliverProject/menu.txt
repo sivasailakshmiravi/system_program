@@ -1,0 +1,4 @@
+
+Pizza	150
+Biriyani	250
+FriedRice	200
